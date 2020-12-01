@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
-#include "bunny.h"
-#include "functions.h"
+#include "bunny.cpp"
+#include "functions.cpp"
 using namespace std;
 
 //Other functions
